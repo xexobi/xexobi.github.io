@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Rina Desain AI
 
-<!--
-**xexobi/xexobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo! Saya adalah freelance AI content creator yang siap bantu bikin konten digital cepat, murah, dan berkualitas.
 
-Here are some ideas to get you started:
+## 💼 Layanan yang Saya Tawarkan
+- ✍️ Artikel SEO (500–1000 kata)
+- 🎨 Desain Instagram pakai Canva AI
+- 🖼️ Gambar AI unik (Midjourney, DALL·E)
+- 📄 Deskripsi produk untuk marketplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Contoh Hasil Kerja
+
+### Artikel SEO
+**Judul:** 5 Cara Menjaga Kesehatan Mental  
+**Link:** [Lihat di Google Docs](https://docs.google.com/document/d/123abc)
+
+### Desain Konten Instagram
+![contoh desain](https://raw.githubusercontent.com/username/repo/main/contoh1.png)
+
+### AI Art
+![AI Art](https://raw.githubusercontent.com/username/repo/main/kucing-ai.jpg)
+
+## 📬 Kontak Saya
+- Email: kamu@email.com
+- WhatsApp: 08xxxxx
+- Instagram: [@rinadesain.ai](https://instagram.com/rinadesain.ai)
