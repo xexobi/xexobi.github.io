@@ -6,9 +6,8 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <title>Header Tailwind</title>
 </head>
-<body class="bg-blue-900">
-  <div class="max-w-4xl mx-auto text-center">
-  <div class="relative bg-gray-900/85 px-10 py-6 rounded-2xl shadow-[0_10px_30px_rgba(0,0,0,0.2)] transform transition-transform hover:-translate-y-2 hover:shadow-[0_20px_40px_rgba(0,0,0,0.3)] border border-gray-400">
+<body class="bg-grey-900">
+  <div class="relative bg-gray-900/85 px-10 py-6 shadow-[0_10px_30px_rgba(0,0,0,0.2)] transform transition-transform hover:-translate-y-2 hover:shadow-[0_20px_40px_rgba(0,0,0,0.3)]">
     <h1 class="text-white text-6xl md:text-5xl font-bold mb-4">
       Hello, I'm Fadli - a
     </h1>
@@ -19,22 +18,31 @@
       Passionate in <span class="text-blue-400 font-medium">C, Assembly, Linux Kernel</span> and building systems close to the hardware.
     </p>
   </div>
-  </div> 
 <!-- card Profile-->
-  <div class="py-7 max-w-4xl mx-auto text-center">
-  <div class="bg-gray-700 flex flex-col md:flex-row relative rounded-xl shadow-[0_10px_30px_rgba(0,0,0,0.2)] transform transition-transform hover:-translate-y-2 hover:shadow-[0_20px_40px_rgba(0,0,0,0.3)] border border-gray-400">
+<div class="max-w-sm m-7 bg-white shadow-lg overflow-hidden border border-gray-700">
+  <!-- Bagian foto profile -->
+  <div class="flex justify-center mt-6">
+    <img class="w-64 h-64 rounded-full border-4 border-blue-500 shadow-md" src="src/img/Profile1.jpg" alt="Profile">
+  </div>
+  
+  <!-- Nama dan deskripsi -->
+  <div class="text-center px-6 py-4">
+    <h2 class="text-xl font-semibold text-gray-800">John Doe</h2>
+    <p class="text-gray-500 text-sm">Web Developer | UI Designer</p>
+  </div>
+  
+  <!-- Sosial Media -->
+  <div class="flex justify-center gap-6 py-4 border-t">
 
-  <div class="bg-blue-900 m-4 py-6 flex flex-col md:flex-row relative rounded-2xl shadow-[0_10px_30px_rgba(0,0,0,0.2)] transform transition-transform hover:-translate-y-2 hover:shadow-[0_20px_40px_rgba(0,0,0,0.3)] border border-gray-400">
-  <img class="object-cover py-6 px-7 rounded-full w-64 h-42 mx-auto"src="src/img/Profile1.jpg"/>
-    </div>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xexobi&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    class="rounded-2xl border border-gray-400 w-full h-full object-contain"
-  />
+    <a href="#" class="text-blue-600 hover:text-blue-800 transition">
+    </a>
+    <a href="#" class="text-sky-500 hover:text-sky-700 transition">
+    </a>
+    <a href="#" class="text-gray-800 hover:text-black transition">
+    </a>
 
   </div>
-  </div>
+</div>
 
 <footer class="bg-gray-900 text-gray-300 pt-10 pb-6 px-6">
     <!-- Tentang -->
